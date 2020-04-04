@@ -5,7 +5,14 @@ I wanted to make a 3d printable case for the Monome Norns shield without top pan
 
 *Note: this is my first Fusion 360 design, and remains untested as I currently don't have a 3d printer to make one.*
 
-The case consists of two parts. Construction as follows:
+The case consists of two parts. 
+
+Hardware required:
+4 m2.5 * 6 screws
+2 M2.5 16mm hex standoffs
+2 M2.5 threaded inserts
+
+Construction as follows:
 1. Turn the top part of the case over, front facing you.
 2. Use a soldering iron to melt in the two M2.5 threaded inserts into the two front holes.
 3. Put the Norns Shield PCB in the top part and screw in the two M2.5 hex standoffs in the two back holes.
